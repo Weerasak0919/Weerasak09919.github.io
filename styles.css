@@ -1,0 +1,83 @@
+/* Custom Styles */
+.circle-img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 50px;
+    background-color:#CDC2A5;
+}
+.iconsize{
+    width: 28px;
+    height: 28px;
+
+
+}
+
+.navbar-expand-lg,.py-3  {
+    background-color: #295F98;
+    height: 100px;
+}
+
+.navbar-brand,.nav-link,.text-center{
+     color: #E1D7C6;
+}
+.navbar-brand{
+font-size: 38px
+}
+h1{
+    font-size: 50px
+}
+h2{
+    font-size: 40px
+}
+p,ul,ol{
+    font-size: 25px
+}
+em {
+    color: #626161;
+}
+.fa {
+    padding: 40px;
+    font-size: 70px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #295F98;
+    color: #CDC2A5;
+    font-size: 70px;
+  }
+  .fa-instagram {
+    background: #295F98;
+    color: #CDC2A5;
+  }
+  .fa-linkedin {
+    background: #295F98;
+    color: #CDC2A5;
+  }
+  .fa-git {
+    background: #295F98;
+    color: #CDC2A5;
+  }
+hr {
+    color: #EAE4DD;
+    border-style: solid;
+    height: 20px;
+    width: 100%;
+}
